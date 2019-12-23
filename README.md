@@ -7,7 +7,7 @@
 
 - Given a .txt file which includes initial state and goal state, output a .txt
   file including *initial state*, *goal state*, *number of steps*, *number of
-nodes*, *steps in detail* and *result of evaluation function*.
+nodes*, *steps in detail* and *results of evaluation function*.
 
 - In this case, A\* search strategy is used and *sum of Manhattan distances of
   tiles from their goal positions* is used as heuristic function.
