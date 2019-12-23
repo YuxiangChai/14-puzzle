@@ -17,7 +17,7 @@ nodes*, *steps in detail* and *results of evaluation function*.
 - Put an input file in the same folder and name it _'Input\*.txt'_.
 
 - Open a new terminal window and type in the following command:
-```python
+```
 python3 14_puzzle.py Input*.txt
 ```
 
